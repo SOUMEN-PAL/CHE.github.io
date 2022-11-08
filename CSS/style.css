@@ -99,12 +99,14 @@ body::after{
     width: 30%;
     background-color: #ff6700;
     color: white;
-    margin-left: 150px;
+    margin-left:auto;
+    margin-right: auto;
 }
 
 
 
 .co21>.form>#int1{
+
     
     margin-top: 50px ;
 }

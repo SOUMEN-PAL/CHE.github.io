@@ -75,17 +75,111 @@ body::after{
     
 } */
 
-.co21{
-    border: 2px solid #E9322E;
-    border-radius: 10px;
 
-}
+
 
 .co21,.co22,.co23{
-    text-align: center;
+    
     padding: 20px;
 }
 
+.co21{
+    text-align: center;
+}
+
+.co21>.form>.int{
+    
+    margin-bottom: 10px;
+    font-family: 'Varela Round', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    border: 3px solid #ff6700;
+    border-radius: 10px;
+    width: 30%;
+    background-color: #ff6700;
+    color: white;
+    margin-left: 150px;
+}
+
+
+
+.co21>.form>#int1{
+    
+    margin-top: 50px ;
+}
+.co21>.form>#area2{
+    
+    margin-bottom: 50px ;
+}
+
+
+.Area{
+    margin-top: 0px;
+    margin-bottom: 30px;
+    height: 40px;
+    width:90%;
+    border-radius: 4px;
+    border: none;
+    padding: 0px 2%;
+    font-weight: bold;
+    font-size: 15px;
+
+}
+
+.Area:focus{
+    background-color: #ff6700;
+    color: aliceblue;
+    font-weight: bold;
+    font-size: 20px;
+    border: 5px solid white;
+    border-radius: 5px;
+    outline: none;
+}
+
+.co21>.form>#head2{
+    margin-bottom: 20px;
+    border: 1px solid black;
+    color: white;
+    border-radius: 4px;
+    font-family: 'Varela Round', sans-serif;
+    font-weight: bold;
+    font-size: 34px;
+    background-color: #353437;
+}
+
+
+.co21>.form>.button{
+    
+    margin: 10px 20px;
+    font-size: 24px;
+    font-weight: bold;
+    width: 40%;
+    height: 50px;
+    border: 3px solid #ff6700;
+    border-radius: 10px;
+    padding: 10px;
+    font-family: 'Varela Round', sans-serif;
+    
+    color: black;
+    
+
+}
+.co21>.form>.button:hover{
+    margin: 10px 20px;
+    font-size: 24px;
+    font-weight: bold;
+    width: 40%;
+    height: 50px;
+    border: 3px solid white;
+    border-radius: 10px;
+    padding: 10px;
+    font-family: 'Varela Round', sans-serif;
+    background-color: #ff6700;
+    color: white;
+    
+
+}
 
 input{
     display: block;
@@ -111,9 +205,14 @@ input{
 }
 
 
+.co22>.save{
+    
+   text-align: left; 
+   margin-left: 0;
 
+}
 
-
+/* ---------------Login done---------------- */
 
 
 

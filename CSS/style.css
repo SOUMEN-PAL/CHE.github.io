@@ -96,7 +96,7 @@ body::after{
     color: black;
     border: 3px solid #ff6700;
     border-radius: 10px;
-    width: 30%;
+    width: 40%;
     background-color: #ff6700;
     color: white;
     margin-left:auto;
@@ -216,6 +216,61 @@ input{
 
 /* ---------------Login done---------------- */
 
+/* ------------ para info------------------*/
+
+
+
+.co22>#head3{
+    margin-bottom: 20px;
+    border: 1px solid black;
+    color: white;
+    border-radius: 4px;
+    font-family: 'Varela Round', sans-serif;
+    font-weight: bold;
+    font-size: 34px;
+    background-color: #353437;
+    text-align: center;
+}
+
+.co22>.save{
+    border: 3px solid #ff6700;
+    border-radius: 10px;
+    background-color: white;
+    margin-bottom: 10px;
+    padding: 10px;
+    font-family: 'Varela Round', sans-serif;
+    font-weight: bold;
+
+}
+
+/* ------------------------------------------------ */
+
+.co23>#head4{
+    margin-bottom: 20px;
+    border: 1px solid black;
+    color: white;
+    border-radius: 4px;
+    font-family: 'Varela Round', sans-serif;
+    font-weight: bold;
+    font-size: 34px;
+    background-color: #353437;
+    text-align: center;
+    padding: 10px;
+    
+}
+
+.co23>marquee{
+    border: 5px solid #ff6700;
+    padding: 30px;
+    border-radius: 10px;
+    background-color: #353437;
+
+}
+.co23>marquee>.lin{
+
+    color: white;
+    font-family: 'Varela Round', sans-serif;
+}
 
 
 

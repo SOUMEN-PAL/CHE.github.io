@@ -271,8 +271,9 @@ input{
 
     color: white;
     font-family: 'Varela Round', sans-serif;
-    
+    border-bottom: 3px dashed #353437;
     font-weight: bold;
+    padding: 10px;
     margin-bottom: 30px;
 }
 
@@ -304,7 +305,15 @@ input{
 
 
 
-@media(min-width:1200px){
+
+
+
+
+
+
+
+
+@media(min-width:1495px){
     .lg1, .lg2, .lg3,.lg4, .lg5, .lg6,.lg7,.lg8,.lg9,.lg10,.lg11,.lg12{
         float: left;
         
@@ -349,7 +358,7 @@ input{
     }
 }
 /*******MEdium screen*******/
-@media(min-width:950px ) and (max-width:1199px){
+@media(min-width:950px ) and (max-width:1494px){
     .md1, .md2, .md3,.md4, .md5, .md6,.md7,.md8,.md9,.md10,.md11,.md12{
         float: left;
         /* border:1px solid green; */

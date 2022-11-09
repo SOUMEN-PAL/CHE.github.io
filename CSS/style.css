@@ -259,20 +259,35 @@ input{
     
 }
 
-.co23>marquee{
+.co23>#link1{
     border: 5px solid #ff6700;
     padding: 30px;
     border-radius: 10px;
     background-color: #353437;
+    min-height: 550px;
 
 }
-.co23>marquee>.lin{
+.co23>div>#link2>.lin{
 
     color: white;
     font-family: 'Varela Round', sans-serif;
+    
+    font-weight: bold;
+    margin-bottom: 30px;
 }
 
 
+.co23>div>#link2{
+    background-color:#ff6700;
+    
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 15px;
+    
+    font-weight: bold;
+
+    min-height: 505px;
+}
 
 
 

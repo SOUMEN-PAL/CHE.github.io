@@ -5,7 +5,7 @@
 
 }
 body,html{
-    --bg-image: url("Images/02.jpg");
+    --bg-image: url("../Images/02.jpg");
     --bg-image-opacity: .25;
     
    

@@ -724,3 +724,14 @@ input{
 section{
     clear: both;
 }
+
+
+@media (max-width:949px){
+    .container3>div>img{
+        height: 250px;
+        width: 350px;
+    }
+    .container2>.co22>.save{
+        font-size: 20px;
+    }
+}

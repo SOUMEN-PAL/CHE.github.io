@@ -734,4 +734,7 @@ section{
     .container2>.co22>.save{
         font-size: 20px;
     }
+    #gov{
+        width: 300px;
+    }
 }

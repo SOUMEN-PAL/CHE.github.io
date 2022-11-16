@@ -500,6 +500,9 @@ ul>.listitems:hover,
     .sm12 {
         width: 100%;
     }
+    .container2{
+        width: 90%;
+    }
 
     #head2,
     #head3 {

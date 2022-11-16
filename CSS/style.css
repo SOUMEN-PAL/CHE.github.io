@@ -795,6 +795,92 @@ section {
 
 
 @media (max-width:949px) {
+    .sm1,
+    .sm2,
+    .sm3,
+    .sm4,
+    .sm5,
+    .sm6,
+    .sm7,
+    .sm8,
+    .sm9,
+    .sm10,
+    .sm11,
+    .sm12 {
+        float: left;
+
+    }
+    .sm1 {
+        width: 8.33%;
+    }
+
+    .sm2 {
+        width: 16.665%;
+    }
+
+    .sm3 {
+        width: 25%;
+    }
+
+    .sm4 {
+        width: 33%;
+    }
+
+    .sm5 {
+        width: 41.66%;
+    }
+
+    .sm6 {
+        width: 50%;
+    }
+
+    .sm7 {
+        width: 58.33%;
+    }
+
+    .sm8 {
+        width: 66.66%;
+    }
+
+    .sm9 {
+        width: 74.99%;
+    }
+
+    .sm10 {
+        width: 83.33%;
+    }
+
+    .sm11 {
+        width: 91.66%;
+    }
+
+    .sm12 {
+        width: 100%;
+    }
+
+    .container5>.notice>.block>.date{
+        font-size: 19px;
+    }
+
+
+
+
+    .container>.co1>.imag{
+        width: 50px;
+
+    }
+    .container>.co1>#p1{
+        font-size: 13px;
+    }
+    .container>.co2>#head{
+        font-size: 20px;
+    }
+    .container>.co3>p{
+        font-size: 12px;
+    }
+    .container>.co3>.no{
+        margin-left: 0px;
+    }
     .container3>div>img {
         height: 250px;
         width: 350px;

@@ -169,6 +169,39 @@ ul>.listitems:hover,.listdata:hover{
 
 
 
+#more{
+    text-decoration: none;
+    color: white;
+}
+#back{
+    background-color: #ff6700;
+    width: 50%;
+    padding: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 20px;
+    font-family: 'Varela Round', sans-serif;
+    border: 2px solid white;
+
+}
+#more:hover{
+    text-decoration: none;
+    color: #ff6700;
+}
+
+#back:hover{
+    background-color: #353437;
+    width: 50%;
+    padding: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 20px;
+    font-family: 'Varela Round', sans-serif;
+    border: 2px solid white;
+
+}
+
+
 
 
 

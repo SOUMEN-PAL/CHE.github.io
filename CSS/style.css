@@ -795,6 +795,7 @@ section {
 
 
 @media (max-width:949px) {
+
     .sm1,
     .sm2,
     .sm3,
@@ -810,6 +811,7 @@ section {
         float: left;
 
     }
+
     .sm1 {
         width: 8.33%;
     }
@@ -858,29 +860,34 @@ section {
         width: 100%;
     }
 
-    .container5>.notice>.block>.date{
+    .container5>.notice>.block>.date {
         font-size: 19px;
     }
 
 
 
 
-    .container>.co1>.imag{
+    .container>.co1>.imag {
         width: 50px;
 
     }
-    .container>.co1>#p1{
+
+    .container>.co1>#p1 {
         font-size: 13px;
     }
-    .container>.co2>#head{
+
+    .container>.co2>#head {
         font-size: 20px;
     }
-    .container>.co3>p{
+
+    .container>.co3>p {
         font-size: 12px;
     }
-    .container>.co3>.no{
+
+    .container>.co3>.no {
         margin-left: 0px;
     }
+
     .container3>div>img {
         height: 250px;
         width: 350px;

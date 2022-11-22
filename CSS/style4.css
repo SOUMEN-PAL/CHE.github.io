@@ -309,6 +309,10 @@ body::after {
         height: auto;
         
     }
+    .container2>.co22>#hh1,#hh2,#hh3,#hh4,#hh5,#hh6{
+        height: auto;
+       
+    }
 
 }
 
@@ -403,6 +407,10 @@ body::after {
     .container2>.co22>.save p{
         height: auto;
         
+    }
+    .container2>.co22>#hh1,#hh2,#hh3,#hh4,#hh5,#hh6{
+        height: auto;
+       
     }
 
 }

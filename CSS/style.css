@@ -7,7 +7,7 @@
 
 body,
 html {
-    --bg-image: url("../Images/elec.jpg");
+    --bg-image: url("../Images/wall.jpg");
     --bg-image-opacity: .70;
 
 
@@ -105,10 +105,10 @@ body::after {
     font-size: 20px;
     font-weight: bold;
     color: black;
-    border: 3px solid #ff6700;
+    border: 3px solid #a4de02;
     border-radius: 10px;
     width: 40%;
-    background-color: #ff6700;
+    background-color: #a4de02;
     color: white;
     margin-left: auto;
     margin-right: auto;
@@ -142,7 +142,7 @@ body::after {
 }
 
 .Area:focus {
-    background-color: #ff6700;
+    background-color: #a4de02;
     color: aliceblue;
     font-weight: bold;
     font-size: 20px;
@@ -170,7 +170,7 @@ body::after {
     font-weight: bold;
     width: 40%;
     height: 50px;
-    border: 3px solid #ff6700;
+    border: 3px solid #a4de02;
     border-radius: 10px;
     padding: 10px;
     font-family: 'Varela Round', sans-serif;
@@ -190,7 +190,7 @@ body::after {
     border-radius: 10px;
     padding: 10px;
     font-family: 'Varela Round', sans-serif;
-    background-color: #ff6700;
+    background-color: #a4de02;
     color: white;
 
 
@@ -246,7 +246,7 @@ input {
 }
 
 .co22>.save {
-    border: 3px solid #ff6700;
+    border: 3px solid #a4de02;
     border-radius: 10px;
     background-color: white;
     margin-bottom: 10px;
@@ -273,7 +273,7 @@ input {
 }
 
 .co23>#link1 {
-    border: 5px solid #ff6700;
+    border: 5px solid #a4de02;
     padding: 30px;
     border-radius: 10px;
     background-color: #353437;
@@ -293,7 +293,7 @@ input {
 
 
 .co23>div>#link2 {
-    background-color: #ff6700;
+    background-color: #a4de02;
 
     border-radius: 5px;
     padding: 10px;
@@ -323,7 +323,7 @@ input {
 
 .container3>h2 {
     margin-bottom: 60px;
-    color: #ff6700;
+    color: #a4de02;
     font-family: 'Varela Round', sans-serif;
     font-size: 44px;
     padding-top: 30px;
@@ -341,7 +341,7 @@ input {
 }
 
 .container3>div>img:hover {
-    border: 4px solid #ff6700;
+    border: 4px solid #a4de02;
     border-radius: 15px 50px 30px;
 }
 
@@ -351,8 +351,8 @@ input {
 .container4 {
 
     background-color: #353437;
-    border-bottom: 9px solid #ff6700;
-    border-top: 9px solid #ff6700;
+    border-bottom: 9px solid #a4de02;
+    border-top: 9px solid #a4de02;
     margin-bottom: 40px;
 }
 
@@ -364,7 +364,7 @@ input {
     margin: 30px;
     font-size: 35px;
     color: black;
-    border: 4px solid #ff6700;
+    border: 4px solid #a4de02;
     border-radius: 3px;
     background-color: white;
     width: 60%;
@@ -379,7 +379,7 @@ input {
     padding: 10px;
     font-size: 20px;
     color: white;
-    border: 2px dashed #ff6700;
+    border: 2px dashed #a4de02;
     border-radius: 3px;
     font-weight: bolder;
 
@@ -393,7 +393,7 @@ input {
     font-size: 20px;
     color: black;
     background-color: #FF2400;
-    border: 2px solid #ff6700;
+    border: 2px solid #a4de02;
     border-radius: 3px;
     font-weight: bolder;
 }
@@ -406,7 +406,7 @@ input {
     font-size: 20px;
     color: black;
     background-color: #FA8072;
-    border: 2px solid #ff6700;
+    border: 2px solid #a4de02;
     border-radius: 3px;
     font-weight: bolder;
 }
@@ -419,7 +419,7 @@ input {
     font-size: 20px;
     color: black;
     background-color: #Fca510;
-    border: 2px solid #ff6700;
+    border: 2px solid #a4de02;
     border-radius: 3px;
     font-weight: bolder;
 }
@@ -432,7 +432,7 @@ input {
     font-size: 20px;
     color: black;
     background-color: #ffd300;
-    border: 2px solid #ff6700;
+    border: 2px solid #a4de02;
     border-radius: 3px;
     font-weight: bolder;
 }
@@ -445,7 +445,7 @@ input {
     font-size: 20px;
     color: black;
     background-color: #eefc5e;
-    border: 2px solid #ff6700;
+    border: 2px solid #a4de02;
     border-radius: 3px;
     font-weight: bolder;
 }
@@ -458,7 +458,7 @@ input {
     font-size: 20px;
     color: black;
     background-color: lightgreen;
-    border: 2px solid #ff6700;
+    border: 2px solid #a4de02;
     border-radius: 3px;
     font-weight: bolder;
 }
@@ -481,7 +481,7 @@ input {
 
 .container4>#sec1>#more:hover {
     text-decoration: underline;
-    color: #ff6700;
+    color: #a4de02;
     padding: 10px;
 
 
@@ -491,7 +491,7 @@ input {
     margin-top: 70px;
     margin-bottom: 100px;
     padding: 20px;
-    background-color: #ff6700;
+    background-color: #a4de02;
     border-top: 10px solid#353437;
     border-bottom: 10px solid#353437;
 }
@@ -519,8 +519,8 @@ input {
     width: 15%;
     background-color: #353437;
     color: white;
-    border-right: 3px solid #ff6700;
-    border-bottom: 3px solid #ff6700;
+    border-right: 3px solid #a4de02;
+    border-bottom: 3px solid #a4de02;
 }
 
 .container5 .updates {
@@ -560,7 +560,7 @@ input {
 
 .dropdown>.link:focus,
 .link:hover {
-    color: #ff6700;
+    color: #a4de02;
     font-weight: bold;
 }
 
